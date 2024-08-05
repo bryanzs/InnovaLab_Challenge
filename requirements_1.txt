@@ -1,0 +1,11 @@
+scikit-learn
+lightgbm
+xgboost
+plotly
+seaborn
+numpy
+pandas
+requests
+gdown
+lxml
+epiweeks
